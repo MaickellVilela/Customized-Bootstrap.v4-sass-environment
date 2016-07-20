@@ -1,0 +1,26 @@
+{
+  "engines": {
+    "node": "6.2.0"
+  },
+  "name": "sass-environment",
+  "version": "0.0.1",
+  "description": "Bootstrap 4 (alpha.2) SASS environment",
+  "main": "index.js",
+  "scripts": {
+    "autoprefixer": "postcss -u autoprefixer -r style/css/*",
+    "scss": "node-sass -o style/css style/scss",
+    "build:css": "npm run scss && npm run autoprefixer",
+    "watch:css": "onchange 'style/scss' -- npm run build:css"
+  },
+  "keywords": ["npm", "scripts", "sass", "bootstrap", "bootstrap4", "autoprefixer"],
+  "author": "Maickell Vilela",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.2",
+    "autoprefixer": "^6.3.6",
+    "node-sass": "^3.8.0",
+    "node-sass-asset-functions": "^0.0.9",
+    "postcss-cli": "^2.5.2",
+    "onchange": "^2.4.0"
+  }
+}
