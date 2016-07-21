@@ -76,10 +76,10 @@ $ git clone https://github.com/MaickellVilela/Customized-Bootstrap.v4-sass-envir
 
 We will keep it _simple_ for now, but we have a lot to do in other repos.
 <br><sup>Vamos manter as coisas de modo simples por enquanto, mas temos muito a fazer em outros repositórios</sup>
-- :white_check_mark: Custom bootstrap file structure
-- :white_check_mark: Compile SASS
-- :white_check_mark: Watch file changes and compile
-- :white_check_mark: Vendor prefixes
+:white_check_mark: Custom bootstrap file structure
+:white_check_mark: Compile SASS
+:white_check_mark: Watch file changes and compile
+:white_check_mark: Vendor prefixes
 - [ ] bootstrap 4 customization tutorial
 - [ ] Interface test with [**BackstopJS**](https://garris.github.io/BackstopJS/)
 - [ ] Performance improvements like mify
