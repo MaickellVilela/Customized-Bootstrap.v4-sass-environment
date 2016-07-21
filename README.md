@@ -1,29 +1,29 @@
 # Customized Bootstrap.v4 SASS environment
 Basic init front-end development environment using bootstrap 4, sass and node modules to build css
-<br><small></small>
+<br><sup></sup>
 
-### Pre-setup <small>pré-requisitos</small>
+### Pre-setup <br><sub>pré-requisitos</sub>
 
 You need [**_Node.js_**](https://nodejs.org/en/) and [**_Sass_**](http://sass-lang.com/install) installed _(ignore this step if you already have)_:<br>
 <sup>Você precisa do [**_Node.js_**](https://nodejs.org/en/) e do [**_Sass_**](http://sass-lang.com/install) instalado _(ignore este passo se você já os tem)_</sup>
 
 1. To install node go to [nodejs.org](https://nodejs.org/) download and install the lastest version to your OS.
-<br><small>Para instalar o node vá até o site [nodejs.org](https://nodejs.org/) e baixe a versão mais recente para o seu Sistema Operacional.</small>
+<br><sup>Para instalar o node vá até o site [nodejs.org](https://nodejs.org/) e baixe a versão mais recente para o seu Sistema Operacional.</sup>
 
 2. To install sass run this line in terminal.
-<br><small>Para instalar o sass execute a linha abaixo no terminal</small>
+<br><sup>Para instalar o sass execute a linha abaixo no terminal</sup>
 ```sh
 $ sudo gem install sass
 ```
 ------
-### Setup <small>instalação</small>
+### Setup <sup>instalação</sup>
 1. Clone this repo whatever you want...
-<br><small>Clone este repositório onde quiser...</small>
+<br><sup>Clone este repositório onde quiser...</sup>
 ```sh
 $ git clone https://github.com/MaickellVilela/Customized-Bootstrap.v4-sass-environment.git
 ```
 2. Then instal node modules
-<br><small>Então instale os módulos do node</small>
+<br><sup>Então instale os módulos do node</sup>
   * **botstrap** _v4.0.0.alpha.2_ // The most popular front-end framework
   * **autoprefixer**                // write vendor prefixes (no longer inside bootstrap)
   * **node-sass**                   // compile sass
@@ -36,12 +36,12 @@ $ git clone https://github.com/MaickellVilela/Customized-Bootstrap.v4-sass-envir
   ```
 
 3. :tada: That's it! :beer:
-<br><small>É isso aí!</small>
+<br><sup>É isso aí!</sup>
 
 ---
 
-### Usage <small>uso</small>
-  #### File structure <small>estrutura de arquivos</small>
+### Usage <sup>uso</sup>
+  #### File structure <sup>estrutura de arquivos</sup>
   ```
   project
   │   README.md
@@ -60,13 +60,13 @@ $ git clone https://github.com/MaickellVilela/Customized-Bootstrap.v4-sass-envir
   ```
 ##### scripts
   To compile scss files to css folder with vendor prefixes
-  <br><small>para compilar os arquivos .scss para a pasta "css" com os prefixos dos navegadores</small>
+  <br><sup>para compilar os arquivos .scss para a pasta "css" com os prefixos dos navegadores</sup>
   ```sh
   $ npm run build:css
   ```
 
   Run build after every scss file change in scss folder
-  <br><small>O seguinte comando compila o css sempre que houver uma mudança na pasta "scss"</small>
+  <br><sup>O seguinte comando compila o css sempre que houver uma mudança na pasta "scss"</sup>
   ```sh
   $ npm run watch:css
   ```
