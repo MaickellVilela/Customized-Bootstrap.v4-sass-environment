@@ -5,7 +5,7 @@ Basic init front-end development environment using bootstrap 4, sass and node mo
 ### Pre-setup <small>pré-requisitos</small>
 
 You need [**_Node.js_**](https://nodejs.org/en/) and [**_Sass_**](http://sass-lang.com/install) installed _(ignore this step if you already have)_:<br>
-<small>Você precisa do [**_Node.js_**](https://nodejs.org/en/) e do [**_Sass_**](http://sass-lang.com/install) instalado _(ignore este passo se você já os tem)_</small>
+<sup>Você precisa do [**_Node.js_**](https://nodejs.org/en/) e do [**_Sass_**](http://sass-lang.com/install) instalado _(ignore este passo se você já os tem)_</sup>
 
 1. To install node go to [nodejs.org](https://nodejs.org/) download and install the lastest version to your OS.
 <br><small>Para instalar o node vá até o site [nodejs.org](https://nodejs.org/) e baixe a versão mais recente para o seu Sistema Operacional.</small>
@@ -35,13 +35,13 @@ $ git clone https://github.com/MaickellVilela/Customized-Bootstrap.v4-sass-envir
   $ npm install
   ```
 
-3. That's it!
+3. :tada: That's it! :beer:
 <br><small>É isso aí!</small>
 
 ---
 
 ### Usage <small>uso</small>
-  ##### File structure <small>estrutura de arquivos</small>
+  #### File structure <small>estrutura de arquivos</small>
   ```
   project
   │   README.md
@@ -74,11 +74,10 @@ $ git clone https://github.com/MaickellVilela/Customized-Bootstrap.v4-sass-envir
 ### Todo:
 
 We will keep it _simple_ for now, but we have a lot to do in other repos.
-- [x] Custom bootstrap file structure
-- [x] Compile SASS
-- [x] Watch file changes and compile
-- [x] Vendor prefixes
-- [x] Translate README to portuguese
+- :white_check_mark: Custom bootstrap file structure
+- :white_check_mark: Compile SASS
+- :white_check_mark: Watch file changes and compile
+- :white_check_mark: Vendor prefixes
 - [ ] bootstrap 4 customization tutorial
 - [ ] Interface test with [**BackstopJS**](https://garris.github.io/BackstopJS/)
 - [ ] Performance improvements like mify
