@@ -80,7 +80,7 @@ We will keep it _simple_ for now, but we have a lot to do in other repos.
 :white_check_mark: Compile SASS<br>
 :white_check_mark: Watch file changes and compile<br>
 :white_check_mark: Vendor prefixes<br>
-- [ ] bootstrap 4 customization tutorial
-- [ ] Interface test with [**BackstopJS**](https://garris.github.io/BackstopJS/)
-- [ ] Performance improvements like mify
-- [ ] Automate tasks
+:white_medium_square: bootstrap 4 customization tutorial <br>
+:white_medium_square: Interface test with [**BackstopJS**](https://garris.github.io/BackstopJS/) <br>
+:white_medium_square: Performance improvements like mify <br>
+:white_medium_square: Automate tasks <br>
