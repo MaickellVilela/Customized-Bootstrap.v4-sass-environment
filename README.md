@@ -1,8 +1,8 @@
 # Customized Bootstrap.v4 SASS environment
 Basic init front-end development environment using bootstrap 4, sass and node modules to build css
-<br><sup></sup>
+<br><sup>Estrutura básica de desenvolvimento front-end para customizar o bootstrap utilizando modulos node para compilar o sass.</sup>
 
-### Pre-setup <br><sub>pré-requisitos</sub>
+### Pre-setup <sub>pré-requisitos</sub>
 
 You need [**_Node.js_**](https://nodejs.org/en/) and [**_Sass_**](http://sass-lang.com/install) installed _(ignore this step if you already have)_:<br>
 <sup>Você precisa do [**_Node.js_**](https://nodejs.org/en/) e do [**_Sass_**](http://sass-lang.com/install) instalado _(ignore este passo se você já os tem)_</sup>
@@ -16,7 +16,7 @@ You need [**_Node.js_**](https://nodejs.org/en/) and [**_Sass_**](http://sass-la
 $ sudo gem install sass
 ```
 ------
-### Setup <sup>instalação</sup>
+### Setup <sub>instalação</sub>
 1. Clone this repo whatever you want...
 <br><sup>Clone este repositório onde quiser...</sup>
 ```sh
@@ -40,8 +40,9 @@ $ git clone https://github.com/MaickellVilela/Customized-Bootstrap.v4-sass-envir
 
 ---
 
-### Usage <sup>uso</sup>
-  #### File structure <sup>estrutura de arquivos</sup>
+### Usage <sub>uso</sub>
+
+#### File structure <sub>estrutura de arquivos</sub>
   ```
   project
   │   README.md
@@ -74,6 +75,7 @@ $ git clone https://github.com/MaickellVilela/Customized-Bootstrap.v4-sass-envir
 ### Todo:
 
 We will keep it _simple_ for now, but we have a lot to do in other repos.
+<br><sup>Vamos manter as coisas de modo simples por enquanto, mas temos muito a fazer em outros repositórios</sup>
 - :white_check_mark: Custom bootstrap file structure
 - :white_check_mark: Compile SASS
 - :white_check_mark: Watch file changes and compile
