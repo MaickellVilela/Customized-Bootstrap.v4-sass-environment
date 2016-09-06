@@ -24,7 +24,7 @@ $ git clone https://github.com/MaickellVilela/Customized-Bootstrap.v4-sass-envir
 ```
 2. Then instal node modules
 <br><sup>Então instale os módulos do node</sup>
-  * **botstrap** _v4.0.0.alpha.2_ // The most popular front-end framework
+  * **botstrap** _v4.0.0.alpha.4_ // The most popular front-end framework
   * **autoprefixer**                // write vendor prefixes (no longer inside bootstrap)
   * **node-sass**                   // compile sass
   * **node-sass-asset-functions**   // provide image-size functions
