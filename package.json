@@ -16,7 +16,7 @@
   "author": "Maickell Vilela",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "4.0.0-alpha.4",
+    "bootstrap": "4.0.0-alpha.6",
     "autoprefixer": "^6.3.6",
     "node-sass": "^3.8.0",
     "node-sass-asset-functions": "^0.0.9",
