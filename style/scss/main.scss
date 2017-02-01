@@ -1,7 +1,10 @@
-@import "_local-variables"; // local variables
+@import "_bts-vars-override"; // local variables
 
 // bootstrap variables and mixins
 @import "../../node_modules/bootstrap/scss/_variables.scss",
         "../../node_modules/bootstrap/scss/_mixins.scss";
 
-// my files imports ...
+@import "components";
+
+// Pages
+@import "pages/home";

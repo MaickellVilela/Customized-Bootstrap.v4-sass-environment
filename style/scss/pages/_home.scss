@@ -1,0 +1,4 @@
+.profile-picture {
+  @include size(100px);
+  border: solid 3px lighten($gray-light, 10%);
+}
